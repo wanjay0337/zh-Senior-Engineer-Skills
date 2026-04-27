@@ -3,7 +3,7 @@
 
 
 ---
-#v1.0.0 完整清單（25 個檔案）
+# v1.0.0 完整清單（25 個檔案）
 
 系統設計 & 架構：system-design、architecture-patterns、api-design
 工程實踐：code-review、testing-strategy、cicd-devops、technical-debt
