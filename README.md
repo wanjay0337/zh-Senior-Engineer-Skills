@@ -1,9 +1,9 @@
-## zh-Senior-Engineer-Skills
+# zh-Senior-Engineer-Skills
 一套繁體中文的資深工程師提示詞，包含了許多的面向
 
 
 ---
-# v1.0.0 完整清單（25 個檔案）
+## v1.0.0 完整清單（25 個檔案）
 
 系統設計 & 架構：system-design、architecture-patterns、api-design
 工程實踐：code-review、testing-strategy、cicd-devops、technical-debt
